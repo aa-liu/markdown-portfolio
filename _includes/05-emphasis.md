@@ -7,5 +7,5 @@ Below is a *list* of my **technical skills**:
 - C++
 
 ### Collaboration
--GitHub
--Git
+- GitHub
+- Git
